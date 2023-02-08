@@ -9,14 +9,14 @@ students 💖
 
 ## Technology
 Project is created with:<br/>
-![java](https://skillicons.dev/icons?i=java)
+![java](https://skillicons.dev/icons?i=java) : Java
 
 
 ## Demo project
 
 
 <p align="center">
-  <img src="demo/UML.gif" width=600><br/>
+  <img src="demo/UML.png" width=600><br/>
   <i>UML </i>
 </p>
 <p align="center">
